@@ -1,0 +1,9 @@
+title: Hive Nova
+description: AI automation systems and workflows
+baseurl: ""
+url: "https://ese51.github.io"
+
+permalink: /posts/:slug/
+
+markdown: kramdown
+theme: minima
